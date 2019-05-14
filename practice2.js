@@ -72,3 +72,64 @@
 // } else {
 //   console.log('Las variables son iguales');
 // }
+
+
+
+// Imprimir en pantalla los numeros del 1 al 10 utilizando un bucle "for"
+
+// for (let i = 1; i <= 10; i++) {
+//   console.log(i);
+// }
+
+
+
+// Dada una variable "x" la cual contiene un num, imprimir en consola todos los numeros que esten entre el valor de la variable y 0.
+// const number = 5;
+
+// for (let i = number; i >= 0; i--) {
+//   console.log(i);
+// }
+
+
+
+// Dados distintas tarjetas de crédito, mostrar por consola la cantidad de cuotas sin interés según el siguiente criterio.
+// const mastercard = 6;
+// const visa = 9;
+// const amex = 3;
+// const rest = 1;
+
+// if (mastercard) {
+//   console.log(`Mastercard - hasta ${mastercard} cuotas s/interés`);
+// } 
+// if (visa) {
+//   console.log(`Visa - hasta ${visa} cuotas s/interés`);
+// }
+// if (amex) {
+//   console.log(`Amex - hasta ${amex} cuotas s/interés`);
+// }
+// if (rest) {
+//   console.log(`Todas las demás - ${rest} cuota s/interés`);
+// }
+
+
+
+// Imprimir en pantalla los numeros del 1 al 10 utilizando un bucle "while"
+// let number = 1;
+
+// while (number <= 10) {
+//   console.log(number);
+//   number++;
+// }
+
+
+
+// Imprimir los primeros 50 numeros pares
+// for (let i = 2; i <= 50; i+=2) {
+//   console.log(i);
+// }
+
+// let number = 2;
+// while (number <= 50) {
+//   console.log(number);
+//   number += 2;
+// }
