@@ -25,11 +25,11 @@
 // Dada una variable donde se ingresa el nombre del mes, devolver la cantidad de días correspondiente.
 // const month = 'febrero';
 
-// if (month === 'enero' || month === 'marzo' || month === 'mayo' || month === 'julio' || month === 'agosto' || month === 'octubre' || month === 'diciembre') {
+// if (month == 'enero' || month == 'marzo' || month == 'mayo' || month == 'julio' || month == 'agosto' || month == 'octubre' || month == 'diciembre') {
 //   console.log('El mes ingresado tiene 31 días');
-// } else if (month === 'abril' || month === 'junio' || month === 'septiembre' || month === 'noviembre') {
+// } else if (month == 'abril' || month == 'junio' || month == 'septiembre' || month == 'noviembre') {
 //   console.log('El mes ingresado tiene 30 días');
-// } else if (month === 'febrero') {
+// } else if (month == 'febrero') {
 //   console.log('El mes ingresado tiene 28 días');
 // } else {
 //   console.log('El valor ingresado no corresponde a ningún mes, vuelva a intentarlo');
@@ -53,7 +53,7 @@
 // Dada una variable "x" la cual contiene una letra, determinar si es una vocal.
 // const vowel = 'a';
 
-// if (vowel === 'a' || vowel === 'e' || vowel === 'i' || vowel === 'o' || vowel === 'u') {
+// if (vowel == 'a' || vowel == 'e' || vowel == 'i' || vowel == 'o' || vowel == 'u') {
 //   console.log('La letra ingresada es una vocal');
 // } else {
 //   console.log('La letra ingresada es una consonante');
