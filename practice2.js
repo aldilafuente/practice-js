@@ -67,6 +67,8 @@
 
 // if (x > y) {
 //   console.log('La variable X es mayor que la variable Y');
-// } else {
+// } else if (x < y){
 //   console.log('La variable X es menor que la variable Y');
+// } else {
+//   console.log('Las variables son iguales');
 // }
